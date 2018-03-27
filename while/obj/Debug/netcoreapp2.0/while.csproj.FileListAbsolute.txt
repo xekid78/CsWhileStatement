@@ -1,0 +1,11 @@
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\while\while\obj\Debug\netcoreapp2.0\while.csprojResolveAssemblyReference.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\while\while\obj\Debug\netcoreapp2.0\while.csproj.CoreCompileInputs.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\while\while\obj\Debug\netcoreapp2.0\while.AssemblyInfoInputs.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\while\while\obj\Debug\netcoreapp2.0\while.AssemblyInfo.cs
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\while\while\bin\Debug\netcoreapp2.0\while.deps.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\while\while\bin\Debug\netcoreapp2.0\while.runtimeconfig.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\while\while\bin\Debug\netcoreapp2.0\while.runtimeconfig.dev.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\while\while\bin\Debug\netcoreapp2.0\while.dll
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\while\while\bin\Debug\netcoreapp2.0\while.pdb
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\while\while\obj\Debug\netcoreapp2.0\while.dll
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\while\while\obj\Debug\netcoreapp2.0\while.pdb
