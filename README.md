@@ -1,5 +1,5 @@
 # CsWhileStatement
-while文
+while文（.NET Core）
 
 ## 処理
 <dl>
